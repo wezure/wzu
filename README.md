@@ -1,7 +1,7 @@
 # Wezure
 Wezure is a financial asset on the blockchain.
 
-# token
+# Token
 There are a few core contracts that implement the behavior specified in the EIP:
 
 {IERC20}: the interface all ERC20 implementations should conform to.
