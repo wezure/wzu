@@ -16,3 +16,6 @@ There are a few core contracts that implement the behavior specified in the EIP:
 
 # Ownership
 {Ownable} is a simpler mechanism with a single owner "role" that can be assigned to a single account. This simpler mechanism can be useful for quick tests but projects with production concerns are likely to outgrow it.
+
+# License
+Wezure Contracts is released under the [MIT License](https://github.com/wezure/wzu/blob/main/LICENSE/).
