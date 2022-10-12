@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/11485222/195352935-868a2084-9ba0-45d3-bb9d-8f47a062c5fc.png)
+![logo](https://github.com/wezure/wzu/blob/main/logo.png)
 
 # Wezure
 Wezure is a financial asset on the blockchain.
